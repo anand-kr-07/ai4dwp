@@ -1,0 +1,13 @@
+[2026-08-05 16:43:31] [INFO] Script started. DryRun=False, Rollback=False, OlderThanDays=0
+[2026-08-05 16:43:31] [INFO] Log file: C:\Users\labuser\Documents\training\DAY3\logs\cleanup_20260805_164331.log
+[2026-08-05 16:43:31] [INFO] Cutoff date/time: 8/5/2026 4:43:31 PM
+[2026-08-05 16:43:31] [INFO] Scanning path: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 16:43:31] [WARN] Locked file skipped: C:\Users\labuser\AppData\Local\Temp\2\3d23619b-0215-4580-9c48-0af52b8d5516.tmp
+[2026-08-05 16:43:31] [INFO] Moved to staging: C:\Users\labuser\AppData\Local\Temp\2\cv_debug.log -> C:\ProgramData\DWPTempCleanup\Staging\20260805_164331_9ebda38e\cv_debug_2e34078f5dfb48a8b48e838c9d71115c.log
+[2026-08-05 16:43:31] [INFO] Moved to staging: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat -> C:\ProgramData\DWPTempCleanup\Staging\20260805_164331_9ebda38e\dicts_ef6d94da60e9477cb23ab06243d57770.dat
+[2026-08-05 16:43:31] [INFO] Moved to staging: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py -> C:\ProgramData\DWPTempCleanup\Staging\20260805_164331_9ebda38e\__init___45952738333343b5be1bef5f90538eaa.py
+[2026-08-05 16:43:31] [INFO] Moved to staging: C:\Users\labuser\AppData\Local\Temp\2\vscode-stable-system-x64\CodeSetup-stable-df53daabb18cd157bdb08c7f01c34df936cf12f4.exe -> C:\ProgramData\DWPTempCleanup\Staging\20260805_164331_9ebda38e\CodeSetup-stable-df53daabb18cd157bdb08c7f01c34df936cf12f4_ce8bedc3d29847a4bdb417ca7d1de24a.exe
+[2026-08-05 16:43:31] [INFO] Moved to staging: C:\Users\labuser\AppData\Local\Temp\2\vscode-stable-system-x64\update-metadata.json -> C:\ProgramData\DWPTempCleanup\Staging\20260805_164331_9ebda38e\update-metadata_74324c7b40944b689024f03e96e71ac8.json
+[2026-08-05 16:43:31] [INFO] Scanning path: C:\Windows\Temp
+[2026-08-05 16:43:31] [INFO] Manifest written: C:\ProgramData\DWPTempCleanup\Staging\20260805_164331_9ebda38e\manifest_20260805_164331_9ebda38e.csv
+[2026-08-05 16:43:31] [INFO] Script finished. Scanned=6, Candidates=6, Moved=5, Locked=1, Failed=0, DryRunListed=0

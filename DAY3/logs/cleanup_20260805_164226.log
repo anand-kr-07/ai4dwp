@@ -1,0 +1,6 @@
+[2026-08-05 16:42:26] [INFO] Script started. DryRun=True, Rollback=False, OlderThanDays=36500
+[2026-08-05 16:42:26] [INFO] Log file: C:\Users\labuser\Documents\training\DAY3\logs\cleanup_20260805_164226.log
+[2026-08-05 16:42:26] [INFO] Cutoff date/time: 8/30/1926 4:42:26 PM
+[2026-08-05 16:42:26] [INFO] Scanning path: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 16:42:26] [INFO] Scanning path: C:\Windows\Temp
+[2026-08-05 16:42:26] [INFO] Script finished. Scanned=6, Candidates=0, Moved=0, Locked=0, Failed=0, DryRunListed=0

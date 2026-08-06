@@ -1,0 +1,12 @@
+[2026-08-05 16:55:53] [INFO] Script started. DryRun=True, Rollback=False, DisableStartup=False, ProgramName=, OlderThanDays=3, ThresholdMB=1, SkipEventLogMaintenance=True
+[2026-08-05 16:55:53] [INFO] ArchiveRoot=C:\Users\labuser\Documents\training\DAY3\eventlog_archives
+[2026-08-05 16:55:53] [INFO] QuarantineRoot=C:\Users\labuser\Documents\training\DAY3\eventlog_quarantine
+[2026-08-05 16:55:53] [INFO] StartupQuarantineRoot=C:\Users\labuser\Documents\training\DAY3\startup_quarantine
+[2026-08-05 16:55:53] [INFO] CutoffDate=8/2/2026 4:55:53 PM
+[2026-08-05 16:55:53] [INFO] LogFile=C:\Users\labuser\Documents\training\DAY3\logs\dwp_day_run_auditor_20260805_165553.log
+[2026-08-05 16:55:53] [INFO] Startup audit collected 3 entries.
+[2026-08-05 16:55:53] [INFO] Large file scan complete. ThresholdMB=1. FilesFound=0
+[2026-08-05 16:56:01] [INFO] Disk optimization metadata collected from ScheduledDefrag task. State=Ready, LastResult=0
+[2026-08-05 16:56:02] [INFO] Disk health report section completed (read-only).
+[2026-08-05 16:56:02] [INFO] Event log maintenance skipped by flag.
+[2026-08-05 16:56:02] [INFO] Script completed. StartupTotal=3, StartupDisabled=0, LargeFiles=0, Volumes=3, PhysicalDisks=2, EventArchived=0, EventSkipped=0, EventCleanupCandidates=0, EventCandidateRecords=0, EventQuarantined=0, DryRun=True

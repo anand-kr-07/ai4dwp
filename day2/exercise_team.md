@@ -1,0 +1,1 @@
+A user’s laptop became slow, so we cleaned junk files, removed unwanted files from the Recycle Bin, and updated drivers, with no data loss. If you see the same slowdown, contact the service desk and report that your laptop is running slow so we can apply the same fix. Contact: Service Desk.

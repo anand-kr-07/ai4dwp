@@ -1,0 +1,9 @@
+[2026-08-05 16:50:53] [INFO] Script started. DryRun=True, Rollback=False, OlderThanDays=3
+[2026-08-05 16:50:53] [INFO] ArchiveRoot=C:\Users\labuser\Documents\training\DAY3\eventlog_archives
+[2026-08-05 16:50:53] [INFO] QuarantineRoot=C:\Users\labuser\Documents\training\DAY3\eventlog_quarantine
+[2026-08-05 16:50:53] [INFO] CutoffDate=8/2/2026 4:50:53 PM
+[2026-08-05 16:50:53] [INFO] LogFile=C:\Users\labuser\Documents\training\DAY3\logs\eventlog_archive_cleanup_20260805_165053.log
+[2026-08-05 16:50:53] [INFO] DRY-RUN would archive log Application to C:\Users\labuser\Documents\training\DAY3\eventlog_archives\20260805\Application_20260805.evtx using age filter of 3 days.
+[2026-08-05 16:50:53] [INFO] DRY-RUN would archive log System to C:\Users\labuser\Documents\training\DAY3\eventlog_archives\20260805\System_20260805.evtx using age filter of 3 days.
+[2026-08-05 16:50:53] [INFO] DRY-RUN would archive log Security to C:\Users\labuser\Documents\training\DAY3\eventlog_archives\20260805\Security_20260805.evtx using age filter of 3 days.
+[2026-08-05 16:50:53] [INFO] Script finished. ArchiveLogs=3, ArchiveSkipped=0, ArchiveFailed=0, CleanupCandidates=0, CleanupCandidateRecords=0, QuarantinedFiles=0, QuarantinedRecords=0, CleanupFailed=0, DryRun=True
